@@ -22,3 +22,4 @@
   * fact_manufacturing_cost
 
 ##  Ad_hoc_request
+[ad-hoc-requests.pdf](https://github.com/user-attachments/files/16228058/ad-hoc-requests.pdf)
